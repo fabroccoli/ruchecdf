@@ -1,0 +1,30 @@
+body {
+    background:rgb(65, 65, 65);
+    color:white;
+}
+a{
+    text-decoration: none;
+    color : white;
+}
+a:hover{
+    text-decoration: none;
+    transition-duration:500ms;
+    color : rgb(223, 238, 12);
+}
+h1{
+    color : white;
+    margin-top: 1rem;
+}
+h1:hover{
+    color :rgb(223, 238, 12);
+    transition-duration:500ms;
+
+}
+.hover:hover{
+    color :white;
+    transition-duration:500ms;
+}
+.hover{
+    color :rgb(223, 238, 12);
+    transition-duration:500ms;
+}
